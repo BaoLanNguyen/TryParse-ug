@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TryParse ug/1.0.0": {
+        "runtime": {
+          "TryParse ug.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryParse ug/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\TryParse ug\bin\Debug\net6.0\TryParse ug.exe
+C:\Users\Admin\Documents\TryParse ug\bin\Debug\net6.0\TryParse ug.deps.json
+C:\Users\Admin\Documents\TryParse ug\bin\Debug\net6.0\TryParse ug.runtimeconfig.json
+C:\Users\Admin\Documents\TryParse ug\bin\Debug\net6.0\TryParse ug.dll
+C:\Users\Admin\Documents\TryParse ug\bin\Debug\net6.0\TryParse ug.pdb
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.AssemblyInfo.cs
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.dll
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\refint\TryParse ug.dll
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.pdb
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\TryParse ug.genruntimeconfig.cache
+C:\Users\Admin\Documents\TryParse ug\obj\Debug\net6.0\ref\TryParse ug.dll
